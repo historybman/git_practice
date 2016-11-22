@@ -1,1 +1,3 @@
 Just messing around here.  Time to see if this folder works as a git folder.  Want to see whether it will update correctly.  
+
+Another edit.  Let's see if this works well.
