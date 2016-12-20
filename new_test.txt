@@ -3,3 +3,6 @@ Here's a file that I'm going to edit and then commit later once it's done.  I fi
 Now I'm adding some new lines so that we can test the diff function and compare the two commits.  It's starting to all make more sense to me.  
 
 I'm going to add even more lines now.  When I committed the last time, I think I removed the option to compare by diff.  We'll see if this works any better.  
+
+Adding another line.  I think the sequence is that I can git add the file, but at that point I need to run git diff --staged in order to see the diff.
+
