@@ -1,1 +1,5 @@
 Here's a file that I'm going to edit and then commit later once it's done.  I first write some lines of text to get some changes in the file.  
+
+Now I'm adding some new lines so that we can test the diff function and compare the two commits.  It's starting to all make more sense to me.  
+
+I'm going to add even more lines now.  When I committed the last time, I think I removed the option to compare by diff.  We'll see if this works any better.  
